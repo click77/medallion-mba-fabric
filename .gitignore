@@ -1,0 +1,24 @@
+# Fabric/Databricks 
+.databricks/ 
+*.log 
+__pycache__/ 
+*.pyc 
+*.pyo 
+ 
+# Power BI 
+*.pbix.tmp 
+*.pbit.tmp 
+ 
+# OS 
+.DS_Store 
+Thumbs.db 
+ 
+# IDE 
+.vscode/ 
+.idea/ 
+*.swp 
+*.swo 
+ 
+# Environment 
+.env 
+*.env 
